@@ -4,8 +4,8 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi`,
     btnIntro: 'hihi',
-    title: 'Luôn luôn nở nụ cười rạng rỡ trên môi nhé cô gái😙',
-    desc: 'Hứa với anh là luôn luôn vui vẻ nha? ',
+    title: 'Cuối tuần về quê đi chơi với anh nha bae😙',
+    desc: '😘😘😘😘😘😘😘😘? ',
     btnYes: 'Vâng ạ <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Hỉu dz không? ?',
