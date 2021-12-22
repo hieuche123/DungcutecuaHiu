@@ -4,15 +4,15 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi`,
     btnIntro: 'hihi',
-    title: 'Luôn luôn nở nụ cười rạng rỡ trên môi nhé cô gái😙',
-    desc: 'Hứa với anh là luôn luôn vui vẻ nha? ',
+    title: 'Cuối tuần về quê đi chơi với anh nha bae😙',
+    desc: '😘😘😘😘😘😘😘😘? ',
     btnYes: 'Vâng ạ <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Hỉu dz không? ?',
+    btnNo: 'Không, Anh à:3',
+    question:'Hôm nào em về quê ? ',
     btnReply: 'Gửi cho anh <3',
-    reply: 'có ạ,Anh Hỉu đẹp zai nhất luôn!',
-    mess: 'Hihi 🥰. Dung cũng xinh gái lắm 😘😘',
+    reply: '',
+    mess: 'Hihi 🥰😘😘',
     messDesc: 'Cuối tuần về nhà, anh qua đón đi chơi nhé.inbox ngay cho anh nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/hieu.che.1614460/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100022466296154' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
